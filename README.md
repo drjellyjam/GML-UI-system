@@ -1,4 +1,4 @@
-# GML-UI-system
+# Kennal-UI-system
 UI system for gamemaker written in GML
 
 Originally made for a old project.
